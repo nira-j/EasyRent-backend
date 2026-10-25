@@ -43,7 +43,7 @@ public class EasyRentApplication {
 		localServer.setDescription("Server URL in Local environment");
 
 		Info info = new Info()
-				.title("Role Based Access Application API")
+				.title("EasyRent Role Based Access Application API")
 				.contact(contact)
 				.version("1.0")
 				.description("This API exposes endpoints for users.");
